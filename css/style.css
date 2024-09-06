@@ -1,0 +1,44 @@
+.menu, menu1{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    list-style: none;
+    background-color: #202020;
+    color: #f0f0f0;
+    font: size 2em;
+    padding: 10px 10x;
+    
+}
+
+.menu1{
+    display: flex;
+    gap: 30px;
+    justify-content: end;
+    list-style: none;
+    background-color: #202020;
+    color: #f0f0f0;
+    font: size 2em;
+    padding: 10px 10x;
+
+}
+.menu2{
+    display: flex;
+    gap: 30px;
+    justify-content: left;
+    list-style: none;
+    background-color: #202020;
+    color: #f0f0f0;
+    font: size 2em;
+    padding: 10px 10x;
+}
+
+.menu3{
+    display: flex;
+    gap: 30px;
+    justify-content: first baseline;
+    list-style: none;
+    background-color: #202020;
+    color: #f0f0f0;
+    font: size 2em;
+    padding: 10px 10x;
+}
